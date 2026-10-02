@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.pytest_cache/
+
+# Docker & Local Config
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/
